@@ -1,0 +1,22 @@
+A. A. Efros and T. K. Leung, "Texture synthesis by non-parametric sampling," Computer Vision, 1999. The Proceedings of the Seventh IEEE International Conference on, Kerkyra, 1999, pp. 1033-1038 vol.2.
+doi: 10.1109/ICCV.1999.790383
+Abstract: A non-parametric method for texture synthesis is proposed. The texture synthesis process grows a new image outward from an initial seed, one pixel at a time. A Markov random field model is assumed, and the conditional distribution of a pixel given all its neighbors synthesized so far is estimated by querying the sample image and finding all similar neighborhoods. The degree of randomness is controlled by a single perceptually intuitive parameter. The method aims at preserving as much local structure as possible and produces good results for a wide variety of synthetic and real-world textures
+ keywords: {Markov processes;computer vision;image sampling;image texture;Markov random field model;conditional pixel distribution;initial seed;local structure preservation;new image growth;nonparametric sampling;perceptually intuitive parameter;randomness;real-world textures;sample image querying;synthetic textures;texture synthesis;Application software;Computer science;Computer vision;Filters;Histograms;Image sampling;Image texture analysis;Integrated circuit synthesis;Pixel;Sampling methods},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=790383&isnumber=17141
+
+
+Shai Fine
+, Yoram Singer
+, Naftali Tishby
+The Hierarchical Hidden Markov Model: Analysis and Applications
+Abstract
+We introduce, analyze and demonstrate a recursive hierarchical generalization of the widely used hidden Markov models, which we name Hierarchical Hidden Markov Models (HHMM). Our model is motivated by the complex multi-scale structure which appears in many natural sequences, particularly in language, handwriting and speech. We seek a systematic unsupervised approach to the modeling of such structures. By extending the standard Baum-Welch (forward-backward) algorithm, we derive an efficient procedure for estimating the model parameters from unlabeled data. We then use the trained model for automatic hierarchical parsing of observation sequences. We describe two applications of our model and its parameter estimation procedure. In the first application we show how to construct hierarchical models of natural English text. In these models different levels of the hierarchy correspond to structures on different length scales in the text. In the second application we demonstrate how HHMMs can be used to automatically identify repeated strokes that represent combination of letters in cursive handwriting.
+http://dx.doi.org/10.1023/A:1007469218079
+
+
+Nestor Garay-Vitoria 
+, Julio Abascal
+Text prediction systems: a survey
+Abstract
+Text prediction is one of the most widely used techniques to enhance the communication rate in augmentative and alternative communication. Prediction systems are traditionally used by people with disabilities (e.g. people with motor and speech impairments). However, new applications, such as writing short text messages via mobile phones, have recently appeared. A vast amount of heterogeneous text prediction methods and techniques can be found in literature. Their heterogeneity makes it difficult to understand and compare them, in order to select the most convenient technique for a specific design. This paper presents a survey on text prediction techniques with the intention to provide a systematic view of this field. Prediction applications and related features, such as block size, dictionary structure, prediction method, user interface, etc., are examined. In addition, prediction measurement parameters and published results are compared. A large number of factors that may influence prediction results, including the acceptance of the system by the users, are reviewed, and their influence on the performance and usability of the system is discussed.
+http://link.springer.com/article/10.1007/s10209-005-0005-9
